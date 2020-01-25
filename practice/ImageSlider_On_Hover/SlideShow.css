@@ -71,6 +71,7 @@ section .slide:hover {
 section .slide:hover .content{
     opacity: 1;
     transition: 0.5s;
+    transition-delay: 0.5s;
     transform: translateY(0);
     visibility: visible;
 }
